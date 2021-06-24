@@ -1,0 +1,12 @@
+{
+   
+    "main": {
+      "turkish": "Türkçe",
+      "english": "İngilizce",
+      "arabic": "Arapça",
+      "login":"Giriş"
+     
+    } ,
+    "profile": "Profil",
+    "frontend":"Frontend Web Designer"
+  }
